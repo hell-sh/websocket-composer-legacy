@@ -1,0 +1,10 @@
+{
+	"name": "hell-sh/paws",
+	"description": "A lightweight PHP library for spinning up websocket clients and servers.",
+	"homepage": "https://github.com/hell-sh/websocket-composer-legacy",
+	"type": "library",
+	"license": "MIT",
+	"require": {
+		"hell-sh/websocket": "^0.4"
+	}
+}
